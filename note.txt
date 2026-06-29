@@ -1,0 +1,32 @@
+git confit --global user.name ""
+git confit --global user.email ""
+--> Set thông tin
+
+git confit --global user.name 
+git confit --global user.email
+--> Kiểm tra lại thông tin
+
+git init : thông báo sẽ git cho folder này và chỉ làm một lần cho mỗi dự án
+
+git remote add oirigin link tệp : kết nối folder hiện tại với repo trên git
+VD: git remote add origin https://github.com/ThachThanhHai-DEV/bc96_Git.git
+
+get remote --v : kiểm tra lại thông tin
+
+--đẩy code lên github
+git add .
+
+git commit -m
+
+git push  
+    ở lần đầu push
+    git push -u origin main/master
+
+    lần bình thường (not first)
+
+file màu xanh góc trái: file mới tạo
+u : untracted chưa được theo dõi 
+A : đã theo dõi
+
+
+ 
