@@ -24,6 +24,12 @@ git push
 
     lần bình thường (not first)
 
+git checkout -b TenDev  tạo nhánh
+
+git branch   kiểm tra đang đứng ở đâu
+
+
+
 file màu xanh góc trái: file mới tạo
 u : untracted chưa được theo dõi 
 A : đã theo dõi
@@ -34,3 +40,4 @@ A : đã theo dõi
 
 chao bạn nho nhỏ 
 thu nhập vô xem
+
